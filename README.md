@@ -24,8 +24,7 @@ This project explores how sectoral contributions (agriculture, manufacturing, an
 
 ## 🛠️ Tech Stack
 
-- **Python** (Pandas, NumPy, Matplotlib, Seaborn, Statsmodels)
-- **R** (for econometric/statistical analysis)
+- **R** (dplyr, ggplot2, naniar, reshape2, car)
 - **PowerPoint** (for presentation)
 - **PDF** (for reporting)
 
